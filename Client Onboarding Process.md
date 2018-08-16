@@ -1,7 +1,11 @@
-Client Onboarding Process
-=========================
+Hop Onboard
+===========
 
-**Context:** I developed this repository to accompany an article on ‘Building a Business’ that I was commissioned to write for Net magazine (Issue #XXX). I hope others find it useful.
+An Open Source Client Onboarding Process
+----------------------------------------
+
+
+**Context:** I developed this repository to accompany an article on ‘Building a Business’ that I was commissioned to write for Net magazine (Issue #312). I hope others find it useful.
 
 This process represents the culmination of 25+ years of work as a [designer][MM] working with both clients and agencies. It’s my methodology and, as such, it might not fit every situation, but I find it a useful to ensure that the projects I undertake are managed efficiently.
 
