@@ -13,10 +13,13 @@ I use this structure to inform my teaching on Belfast School of Art’s [BDes (H
 
 Although my process is structured with a number of phases, these phases often run concurrently and everything is developed iteratively.
 
+<!--
+
 **Disclosure:** I work very closely with the team at [Little Thunder][LT], a boutique experience design company based in Belfast. This **Client Onboarding Process** owes a considerable debt to my work with them. If you’re looking for a studio to work on a digital product, I’d recommend them in a heartbeat.
 
 Finally, I’m using this **Client Onboarding Process** as the backbone for a new book – provisionally titled ‘Designing Delightful Experiences’ – which focuses on the user experience design process from start to finish. The book is scheduled for release in late 2018. If that sounds interesting to you, [you might like to follow me on Twitter][TW].
 
+-->
 
 - - -
 
