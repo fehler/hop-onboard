@@ -117,9 +117,11 @@ My visual grammar slidedeck is usually broken down into the following sections:
   + Overall Inspiration
   + Macro (At the page level.)
   + Micro (Focussing on the details.)
-+ Branding /* Move this up? */
++ Branding
 + Imagery
 + Colour Palettes
+
+This deck, of course, depends upon the clients’ specific needs and will vary according to the project’s scope and focus.
 
 <img src="visual-grammar.png" width="650">
 
