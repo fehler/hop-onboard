@@ -100,11 +100,11 @@ With some benchmarking undertaken and an outline strategy established, the secon
 
 My ‘Visual Grammar’ slidedeck explores a high-level design approach, pinpointing a ‘look and feel’ and an art direction for the project in hand. I use this slidedeck to brief the various designers on the project, so that they have a clear direction and are, importantly, all referring to a single source.
 
-This approach is similar to Dan Mall’s ‘Visual Inventory’ (which I was delighted to discover recently), but I’ve always named my deliverable ‘Visual Grammar’. Mall’s thoughts on this are well worth reading and he has, ever-helpfully, written [an article outlining his approach][04].
-
-<img src="grammar.png" width="534">
+<img src="grammar.png" width="480">
 
 A grammar is defined as a system of a language – a set of forms and a series of rules governing their usage – and my visual grammar deck is designed to tease out the building blocks of a design in a systematic manner.
+
+This approach is similar to Dan Mall’s ‘Visual Inventory’ (which I was delighted to discover recently), but I’ve always named my deliverable ‘Visual Grammar’. Mall’s thoughts on this are well worth reading and he has, ever-helpfully, written [an article outlining his approach][04].
 
 My visual grammar slidedeck is usually broken down into the following sections:
 
