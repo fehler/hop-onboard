@@ -100,7 +100,7 @@ With some benchmarking undertaken and an outline strategy established, the secon
 
 My ‘Visual Grammar’ slidedeck explores a high-level design approach, pinpointing a ‘look and feel’ and an art direction for the project in hand. I use this slidedeck to brief the various designers on the project, so that they have a clear direction and are, importantly, all referring to a single source.
 
-<img src="grammar.png" width="480">
+<img src="grammar.png" width="534">
 
 A grammar is defined as a system of a language – a set of forms and a series of rules governing their usage – and my visual grammar deck is designed to tease out the building blocks of a design in a systematic manner.
 
