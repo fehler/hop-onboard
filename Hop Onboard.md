@@ -4,7 +4,7 @@ Hop Onboard
 An Open Source Client Onboarding Process
 ----------------------------------------
 
-**Last Update: 24 August, 2018**
+**Last Update: 14 October, 2018**
 
 
 I developed this repository to accompany an article on ‘Building a Business’ that I was commissioned to write for Net magazine (Issue 312; October, 2018). I hope others find it useful.
@@ -17,7 +17,7 @@ Although my process is structured with a number of phases, these phases often ru
 
 I work very closely with the team at [Little Thunder][02], a boutique experience design company based in Belfast, so this process reflects the methodologies we share when we work together. (If you’re looking for a studio to work on a digital product, I’d recommend them in a heartbeat.)
 
-Finally, I’m using this onboarding process as the backbone for a new book – provisionally titled ‘Designing Delightful Experiences’ – which focuses on the user experience design process from start to finish. The book is scheduled for release in late 2018. If that sounds interesting to you, [you might like to follow me on Twitter][03].
+Finally, I’m using this onboarding process as the backbone for a new book – provisionally titled ‘Designing Delightful Experiences’ – which focuses on the user experience design process from start to finish. The book is scheduled for release in early 2019. If that sounds interesting to you, [you might like to follow me on Twitter][03].
 
 
 - - -
@@ -42,19 +42,11 @@ Phase 1: Benchmarking and Strategy
 
 After an initial client workshop, the first phase of my process is to undertake some benchmarking so that I can develop a strategy informed by considered research.
 
-In this phase, which often involves defining a core brand message (for either a business or a product), I’ll undertake benchmarking, looking at competitors and defining the lay of the land.
+In this phase, which often involves defining a core brand message, I’ll undertake benchmarking, looking at competitors and defining the lay of the land.
 
 With this research in hand, I’ll then develop a strategy: a bespoke approach that’s tailored to each individual project. I’ll also establish some goals so we can measure the validity of our assumptions.
 
-<!--
-
-I haven’t done much on the ‘Establishing Goals’ section and I should. What are the KPIs? They should drive the design.
-
-Design isn’t just ‘pretty’ it’s at the service of goals. KPIs right up front. How will you know if the design’s successful?
-
-Think of this for the UX book and LT documentation.
-
--->
+The best design is at the service of clearly defined goals – it’s certainly not about surface look and feel (although that matters) – it’s about delivering on a clearly defined strategy: establishing 'measures of success' and then checking back against these, to see if the design is succeeding against those goals.
 
 
 ### Benchmarking
@@ -63,7 +55,7 @@ The projects I work on are more often than not confidential in nature, so I can�
 
 <!-- This might be moved upfront? It seems like a bigger picture reference about the whole repository. -->
 
-As the backbone of this repository I’m sharing the process I used as I developed the presence for my new business: [Mr Murphy Ltd.][01].
+As the backbone of this repository I’m sharing the process I'm using as I develop the presence for my new business: [Mr Murphy Ltd.][01].
 
 This project is just like any other, it takes a business (in this case, mine) and maps out the deliverables I’ve developed at every stage of the process.
 
@@ -71,7 +63,7 @@ I find it’s useful at the start of a project to establish benchmarks. For Mr M
 
 In my business I find it easiest to run workshops for clients, using Keynote as a tool to map everything out. I plan to include links to these keynotes here and will supply them when they’re finished.
 
-/* I have a benchmarking and strategy deck, which I need to tidy. Although it’s a little awkward sharing my innermost thoughts and hopes, I think this would be useful for others to see, so I’ll share it when the slidedeck’s notes are cleaned up. */
+/* I have a benchmarking and strategy deck, which I need to tidy. Although it’s a little awkward sharing my innermost thoughts and hopes, I think this would be useful for others to see, so I’ll share it when the slidedeck’s notes are cleaned up. Even at the risk of baring my soul! */
 
 
 ### Strategy
@@ -84,7 +76,7 @@ In the case of Mr Murphy Ltd., it’s a company of one (more accurately two: Mr 
 
 I tie the strategy to a set of goals that allows us to test our assumptions. These goals – or Key Performance Indicators (KPIs) to use a technical term – allow me to measure success.
 
-/* I’ll provide this deck shortly. */
+/* I’ll provide this deck shortly. Again, I'm baring my soul and I'm working on it. The bottom line – and you don't need to look at a slidedeck to see this – before you get in to how things look and feel (and sound), establish some goals, that will inform your strategy. */
 
 
 - - -
@@ -125,7 +117,7 @@ This deck, of course, depends upon the clients’ specific needs and will vary a
 
 <img src="visual-grammar.png" width="650">
 
-/* Include a link to the completed deck here. Upload it to Slidedeck also. */
+[Here’s the deck for my current redesign.](phase-2.1-visual-grammar.pdf) It’s designed to provide a clear direction for the site’s visual design. I used this deck to brief the team at Little Thunder on the look and feel. I'll be sharing their deliverables shortly, but you can also take a look at them at my [live redesign page][01].
 
 
 ### Voice and Tone
@@ -136,7 +128,7 @@ Language, both verbal and visual, is an important part of what we shape as desig
 
 After undertaking some research, which will include a content audit, I’ll develop a ‘brand dictionary’ for every project. This ensures that the language that underpins the design is considered holistically.
 
-/* I’VE MADE IT THIS FAR, THE REST IS SCRATCH CONTENT AND THIS SECTION NEEDS WORK. */
+/* This section is in progress, be warned. */
 
 
 - - -
